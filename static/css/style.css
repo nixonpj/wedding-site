@@ -222,7 +222,7 @@ body {
 
 .page-title {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 3rem;
+    font-size: 2.5rem;
     color: var(--text-dark);
     margin-bottom: 40px;
     text-align: center;
@@ -230,14 +230,14 @@ body {
 }
 
 .page-body {
-    font-size: 1.1rem;
+    font-size: 1rem;
     line-height: 1.9;
     color: var(--text-medium);
 }
 
 .page-body h2 {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 2.5rem;
+    font-size: 2.1rem;
     color: var(--text-dark);
     margin-top: 50px;
     margin-bottom: 25px;
@@ -248,13 +248,7 @@ body {
 }
 
 .page-body h2::after {
-    content: '✦';
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    color: var(--soft-gold);
-    font-size: 1.5rem;
+    display: none;
 }
 
 .itinerary-page .page-body h2 {
@@ -283,9 +277,64 @@ body {
     display: none;
 }
 
+.itinerary-page .page-body img {
+    max-width: 200px;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+    opacity: 0.8;
+    filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.1));
+}
+
+/* Two-column layout for itinerary sections with images */
+.itinerary-section-with-image {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.itinerary-section-with-image .section-image {
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.itinerary-section-with-image .section-image img {
+    width: 250px;
+    max-width: 100%;
+    height: auto;
+    opacity: 0.85;
+    filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.1));
+    margin: 0;
+}
+
+.itinerary-section-with-image .section-content {
+    flex: 1;
+}
+
+/* Responsive: stack columns on mobile */
+@media (max-width: 768px) {
+    .itinerary-section-with-image {
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    .itinerary-section-with-image .section-image {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .itinerary-section-with-image .section-image img {
+        width: 200px;
+    }
+}
+
 .page-body h3 {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     color: var(--text-dark);
     margin-top: 30px;
     margin-bottom: 15px;
@@ -294,7 +343,7 @@ body {
 
 .itinerary-page .page-body h3 {
     color: var(--text-dark);
-    font-size: 1.6rem;
+    font-size: 1.35rem;
     margin-top: 25px;
     margin-bottom: 15px;
     padding-top: 20px;
@@ -307,7 +356,7 @@ body {
 
 .itinerary-page .page-body p {
     line-height: 1.9;
-    font-size: 1.05rem;
+    font-size: 0.95rem;
 }
 
 .page-body ul, .page-body ol {
@@ -404,6 +453,22 @@ body {
     .nav-link {
         font-size: 0.9rem;
     }
+
+    .page-title {
+        font-size: 2.2rem;
+    }
+
+    .page-body {
+        font-size: 0.95rem;
+    }
+
+    .page-body h2 {
+        font-size: 1.8rem;
+    }
+
+    .page-body h3 {
+        font-size: 1.3rem;
+    }
 }
 
 @media (max-width: 480px) {
@@ -431,4 +496,19 @@ body {
         font-size: 1.8rem;
     }
 
+    .page-title {
+        font-size: 2rem;
+    }
+
+    .page-body {
+        font-size: 0.9rem;
+    }
+
+    .page-body h2 {
+        font-size: 1.6rem;
+    }
+
+    .page-body h3 {
+        font-size: 1.2rem;
+    }
 }

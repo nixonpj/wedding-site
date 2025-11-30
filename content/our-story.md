@@ -6,20 +6,18 @@ title = 'Our Story'
 
 ## How We Met
 
-Our story began in the most unexpected of places. It was a warm evening in Bangalore when our paths first crossed. What started as a casual conversation quickly turned into hours of talking, laughing, and discovering how much we had in common.
+They met in Grad school at the University of Chicago in the winter of 2019 where despite their mutual indifference to each other's presence, Smrithi was quick to realize she needed Nixon as a study partner. They stayed friends through school and parted ways with Nixon moving to Seattle and Smrithi to New York City. 
 
 ## The First Date
 
-Our first official date was at a cozy café in the heart of the city. We talked about everything - our dreams, our families, our favorite books, and our shared love for travel. That evening, we both knew something special had begun.
+There was no first date. No one really knows how they started dating. All we know is that their friendship started to grow into something more meaningful sometime in the fall of 2022. 
+
 
 ## Growing Together
 
-Over the years, we've shared countless adventures, from weekend trips to nearby hill stations to quiet evenings at home. We've supported each other through challenges and celebrated each other's successes. Every moment has brought us closer together.
+Over the years, they grew together first in NYC and later continents apart after Smrithi returned to India in 2023. The distance was no hindrance to their love and aspiration to stay together. 
 
-## The Proposal
-
-On a beautiful evening at Nandi Hills, surrounded by the golden sunset, one of us got down on one knee. The answer was an immediate and joyful "yes!" That moment marked the beginning of our journey toward forever.
 
 ## Our Future
 
-We're excited to start this new chapter of our lives together, surrounded by our family and friends. Our wedding is not just a celebration of our love, but a promise to continue growing, learning, and loving each other every single day.
+We're excited to start this new chapter of our lives together, surrounded by our family and friends. Our wedding is not just a celebration of our steadfast love, our perseverance and our growth together every single day.

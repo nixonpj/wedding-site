@@ -74,7 +74,7 @@ No gifts expected! Your presence at our wedding is the greatest gift in itself! 
 
 Please see the [Itinerary page](/itinerary/) for dress code details.
 
-### How long will each ceremony last?
+#### How long will each ceremony last?
 
 - Mehendi: Approximately 2 hours
 - Sangeet: ~3 hours
