@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Our Wedding'
+
+[params]
+  brideName = "Smrithi"
+  groomName = "Nixon"
+  weddingDate = "2026-02-26"
+  weddingDateEnd = "2026-02-27"
+  weddingDateDisplay = "February 26 & 27, 2026"
+  weddingLocation = "Nandi Hills, Bangalore, India"
+  # Image paths (optional - if not set, will use default backgrounds)
+  heroBackgroundImage = "images/main_bg.png"
+  welcomeBackgroundImage = "images/welcome-bg.jpg"

@@ -1,0 +1,16 @@
+{{ define "main" }}
+    <!-- Hero Section -->
+    <section class="hero" {{ if .Site.Params.heroBackgroundImage }}style="background-image: url('{{ .Site.Params.heroBackgroundImage | relURL }}');"{{ end }}>
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h2 class="hero-subtitle">We're Getting Married!</h2>
+            <h1 class="hero-title">
+                <span class="name">{{ .Site.Params.brideName | default "Smrithi" }}</span>
+                <span class="ampersand">&</span>
+                <span class="name">{{ .Site.Params.groomName | default "Nixon" }}</span>
+            </h1>
+            <p class="hero-date">{{ .Site.Params.weddingDateDisplay | default "February 26 & 27, 2026" }}</p>
+            <p class="hero-location">{{ .Site.Params.weddingLocation | default "Nandi Hills, Bangalore, India" }}</p>
+        </div>
+    </section>
+{{ end }}
