@@ -1,0 +1,11 @@
+{{- $imageSrc := .Get "image" -}}
+{{- $imageWidth := .Get "width" | default "250px" -}}
+<div class="itinerary-section-with-image">
+    <div class="section-image">
+        <img src="{{ $imageSrc | relURL }}" alt="" style="width: {{ $imageWidth }}; max-width: 100%; height: auto;" />
+    </div>
+    <div class="section-content">
+        {{ .Inner | markdownify }}
+    </div>
+</div>
+
