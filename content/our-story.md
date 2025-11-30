@@ -21,3 +21,17 @@ Over the years, they grew together first in NYC and later continents apart after
 ## Our Future
 
 We're excited to start this new chapter of our lives together, surrounded by our family and friends. Our wedding is not just a celebration of our steadfast love, our perseverance and our growth together every single day.
+
+## Memories
+
+{{< photo-gallery >}}
+{{< photo src="images/personal/cac5b486-a5c0-4e19-978f-09ec1fc4eda1.JPG" >}}
+{{< photo src="images/personal/d9c3dcfd-b92e-40b4-835f-0c9c94e58686.JPG" >}}
+{{< photo src="images/personal/e2139484-ed5b-49df-a629-0081dd6fd3dc.JPG" >}}
+{{< photo src="images/personal/529bed75-3924-4520-8ce9-32260879ccc4.JPG" >}}
+{{< photo src="images/personal/4780387d-94cc-4e7c-9672-01a9b451c62c 3.JPG" >}}
+{{< photo src="images/personal/PHOTO-2021-11-23-19-45-44.jpg" >}}
+{{< photo src="images/personal/PHOTO-2023-01-05-18-04-38 2.jpg" >}}
+{{< photo src="images/personal/PHOTO-2023-01-05-18-04-38 3.jpg" >}}
+{{< photo src="images/personal/ddad6f26-03bc-4c4e-a118-6b12429d28be 2.JPG" >}}
+{{< /photo-gallery >}}
