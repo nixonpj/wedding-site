@@ -1,4 +1,5 @@
 baseURL = 'https://nixonpj.github.io/wedding-site/'
+# For local development, run: hugo server --baseURL http://localhost:1313/
 languageCode = 'en-us'
 title = 'Our Wedding'
 
