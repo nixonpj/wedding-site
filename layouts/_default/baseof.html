@@ -12,7 +12,7 @@
 <body>
     <!-- Navigation at Top -->
     <nav class="main-nav">
-        <a href="{{ .Site.Home.RelPermalink }}" class="nav-link {{ if eq .RelPermalink "/" }}active{{ end }}">Home</a>
+        <a href="{{ .Site.BaseURL }}" class="nav-link {{ if eq .RelPermalink "/" }}active{{ end }}">Home</a>
         <a href="{{ "our-story" | relURL }}" class="nav-link {{ if eq .RelPermalink "/our-story/" }}active{{ end }}">Our Story</a>
         <a href="{{ "itinerary" | relURL }}" class="nav-link {{ if eq .RelPermalink "/itinerary/" }}active{{ end }}">Itinerary</a>
         <a href="{{ "faq" | relURL }}" class="nav-link {{ if eq .RelPermalink "/faq/" }}active{{ end }}">FAQ</a>
