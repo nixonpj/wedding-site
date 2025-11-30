@@ -12,11 +12,11 @@
 <body>
     <!-- Navigation at Top -->
     <nav class="main-nav">
-        <a href="/" class="nav-link {{ if eq .RelPermalink "/" }}active{{ end }}">Home</a>
-        <a href="/our-story" class="nav-link {{ if eq .RelPermalink "/our-story/" }}active{{ end }}">Our Story</a>
-        <a href="/itinerary" class="nav-link {{ if eq .RelPermalink "/itinerary/" }}active{{ end }}">Itinerary</a>
-        <a href="/faq" class="nav-link {{ if eq .RelPermalink "/faq/" }}active{{ end }}">FAQ</a>
-        <a href="/rsvp" class="nav-link {{ if eq .RelPermalink "/rsvp/" }}active{{ end }}">RSVP</a>
+        <a href="{{ "/" | relURL }}" class="nav-link {{ if eq .RelPermalink "/" }}active{{ end }}">Home</a>
+        <a href="{{ "our-story" | relURL }}" class="nav-link {{ if eq .RelPermalink "/our-story/" }}active{{ end }}">Our Story</a>
+        <a href="{{ "itinerary" | relURL }}" class="nav-link {{ if eq .RelPermalink "/itinerary/" }}active{{ end }}">Itinerary</a>
+        <a href="{{ "faq" | relURL }}" class="nav-link {{ if eq .RelPermalink "/faq/" }}active{{ end }}">FAQ</a>
+        <a href="{{ "rsvp" | relURL }}" class="nav-link {{ if eq .RelPermalink "/rsvp/" }}active{{ end }}">RSVP</a>
     </nav>
 
     <div class="container">
