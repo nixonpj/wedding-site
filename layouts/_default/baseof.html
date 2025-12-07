@@ -4,6 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}">
+    <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}Join {{ .Site.Params.brideName | default "Smrithi" }} and {{ .Site.Params.groomName | default "Nixon" }} as they celebrate their wedding on {{ .Site.Params.weddingDateDisplay | default "February 26 & 27, 2026" }} in {{ .Site.Params.weddingLocation | default "Nandi Hills, Bangalore, India" }}.{{ end }}">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:title" content="{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}">
+    <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}Join {{ .Site.Params.brideName | default "Smrithi" }} and {{ .Site.Params.groomName | default "Nixon" }} as they celebrate their wedding on {{ .Site.Params.weddingDateDisplay | default "February 26 & 27, 2026" }} in {{ .Site.Params.weddingLocation | default "Nandi Hills, Bangalore, India" }}.{{ end }}">
+    <meta property="og:image" content="{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ "images/main_bg.png" | absURL }}{{ end }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ .Permalink }}">
+    <meta property="twitter:title" content="{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}">
+    <meta property="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}Join {{ .Site.Params.brideName | default "Smrithi" }} and {{ .Site.Params.groomName | default "Nixon" }} as they celebrate their wedding on {{ .Site.Params.weddingDateDisplay | default "February 26 & 27, 2026" }} in {{ .Site.Params.weddingLocation | default "Nandi Hills, Bangalore, India" }}.{{ end }}">
+    <meta property="twitter:image" content="{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ "images/main_bg.png" | absURL }}{{ end }}">
+    
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

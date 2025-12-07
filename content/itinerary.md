@@ -2,6 +2,7 @@
 date = '2025-11-29T22:47:17-05:00'
 draft = false
 title = 'Itinerary'
+description = 'View the complete wedding itinerary including Mehendi, Sangeet, Haldi, and Wedding ceremonies on February 26 & 27, 2026.'
 +++
 
 ## Mehendi

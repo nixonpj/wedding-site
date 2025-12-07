@@ -2,6 +2,7 @@
 date = '2025-11-29T22:47:17-05:00'
 draft = false
 title = 'FAQ'
+description = 'Frequently asked questions about the wedding, including accommodation, travel, food, dress code, and ceremony details.'
 +++
 
 ## Accommodation and Venue
@@ -74,7 +75,7 @@ No gifts expected! Your presence at our wedding is the greatest gift in itself! 
 
 Please see the [Itinerary page](/itinerary/) for dress code details.
 
-#### How long will each ceremony last?
+### How long will each ceremony last?
 
 - Mehendi: Approximately 2 hours
 - Sangeet: ~3 hours

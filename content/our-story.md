@@ -2,6 +2,7 @@
 date = '2025-11-29T22:47:17-05:00'
 draft = false
 title = 'Our Story'
+description = 'Read the beautiful story of how Smrithi and Nixon met, fell in love, and are now getting married.'
 +++
 
 ## How We Met

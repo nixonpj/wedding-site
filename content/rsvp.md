@@ -2,6 +2,7 @@
 date = '2025-11-29T22:47:17-05:00'
 draft = false
 title = 'RSVP'
+description = 'Please RSVP by January 15, 2026. Let us know if you will be joining us for our special celebration!'
 +++
 
 ## Please RSVP by January 15, 2026
