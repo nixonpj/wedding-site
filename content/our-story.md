@@ -31,7 +31,7 @@ We're excited to start this new chapter of our lives together, surrounded by our
 {{< photo src="images/personal/529bed75-3924-4520-8ce9-32260879ccc4.JPG" >}}
 {{< photo src="images/personal/4780387d-94cc-4e7c-9672-01a9b451c62c 3.JPG" >}}
 {{< photo src="images/personal/PHOTO-2021-11-23-19-45-44.jpg" >}}
-{{< photo src="images/personal/PHOTO-2023-01-05-18-04-38 2.jpg" >}}
+{{< photo src="images/personal/smrithi-and-nixon.jpeg" >}}
 {{< photo src="images/personal/PHOTO-2023-01-05-18-04-38 3.jpg" >}}
 {{< photo src="images/personal/ddad6f26-03bc-4c4e-a118-6b12429d28be 2.JPG" >}}
 {{< /photo-gallery >}}
