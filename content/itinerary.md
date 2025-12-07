@@ -8,7 +8,7 @@ description = 'View the complete wedding itinerary including Mehendi, Sangeet, H
 ## Mehendi
 
 {{< section-with-image image="images/mehendi.svg" width="250px" >}}
-**Time:** 10:00 AM  
+**Time:** 12:00 AM  
 **Date:** February 26, 2026  
 **Location:** Aangan  
 **Duration:** Approximately 2 hours  
@@ -21,7 +21,7 @@ description = 'View the complete wedding itinerary including Mehendi, Sangeet, H
 ## Cocktail Sangeet
 
 {{< section-with-image image="images/sangeet.svg" width="250px" >}}
-**Time:** 6:00 PM   
+**Time:** 7:00 PM   
 **Date:** February 26, 2026  
 **Location:** Aangan  
 **Duration:** Approximately 3 hours  
@@ -47,7 +47,7 @@ description = 'View the complete wedding itinerary including Mehendi, Sangeet, H
 ## Wedding
 
 {{< section-with-image image="images/hawan.svg" width="250px" >}}
-**Time:** 10:00 PM  
+**Time:** 7:00 PM  
 **Date:** February 27, 2026  
 **Location:** Mantapa Pavillion  
 **Duration:** Approximately 4 hours  

@@ -1,7 +1,7 @@
 baseURL = 'https://smrithi.and.nixonjoshy.com/'
 # For local development, run: hugo server --baseURL http://localhost:1313/
 languageCode = 'en-us'
-title = 'Our Wedding'
+title = 'Smrithi & Nixon are Tying the Knot'
 
 [params]
   brideName = "Smrithi"
