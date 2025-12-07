@@ -12,20 +12,20 @@ description = 'View the complete wedding itinerary including Mehendi, Sangeet, H
 **Date:** February 26, 2026  
 **Location:** Aangan  
 **Duration:** Approximately 2 hours  
-**Dress Code:** Casual traditional Indian attire. Yellow, orange, or green colors are preferred.  
+**Dress Code:** Colorful ethnic wear in green, orange, or pink. Lehengas, shararas, or salwar kurtis are perfect for this occasion.  
 **Description:** A joyful pre-wedding ritual where intricate henna designs are applied. Light refreshments and traditional snacks will be served.
 {{< /section-with-image >}}
 
 ---
 
-## Sangeet
+## Cocktail Sangeet
 
 {{< section-with-image image="images/sangeet.svg" width="250px" >}}
 **Time:** 6:00 PM   
 **Date:** February 26, 2026  
 **Location:** Aangan  
 **Duration:** Approximately 3 hours  
-**Dress Code:** Festive Indian attire. Bright colors and traditional outfits are encouraged.  
+**Dress Code:** Indo-western or glitz and glam party attire. 
 **Description:** An evening of music, dance, and celebration! Family and friends will perform traditional and modern dances. Dinner service included.
 {{< /section-with-image >}}
 
@@ -38,7 +38,7 @@ description = 'View the complete wedding itinerary including Mehendi, Sangeet, H
 **Date:** February 27, 2026  
 **Location:** Kalyani  
 **Duration:** Approximately 2 hours  
-**Dress Code:** Yellow or cream-colored traditional Indian attire. Please avoid wearing your best clothes as turmeric may stain.  
+**Dress Code:** Simple ethnic wear - salwar suits or sarees. 
 **Description:** A traditional pre-wedding ritual where turmeric paste is applied to the bride and groom. An intimate family ceremony with blessings and light breakfast.
 {{< /section-with-image >}}
 
@@ -51,6 +51,6 @@ description = 'View the complete wedding itinerary including Mehendi, Sangeet, H
 **Date:** February 27, 2026  
 **Location:** Mantapa Pavillion  
 **Duration:** Approximately 4 hours  
-**Dress Code:** Traditional Indian formal attire. For women: sarees, lehengas, or salwar kameez. For men: kurta pajama, sherwani, or traditional dhoti.  
+**Dress Code:** Traditional Indian outfits. Lehengas for women and traditional formal wear for men (kurta pajama, sherwani, or traditional dhoti).  
 **Description:** The finaland main wedding ceremony under the beautifully decorated mandap. This elaborate ritual can last late into the night.
 {{< /section-with-image >}}
