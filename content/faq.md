@@ -13,7 +13,7 @@ description = 'Frequently asked questions about the wedding, including accommoda
 
 ### Where can I stay?
 
-We've arranged for a block of rooms at three hotels near the venue. Please fill out the [RSVP form](/rsvp/) and we will book your stay for the 26th and 27th at one of the hotels.
+We've arranged for a block of rooms at three hotels near the venue. Please fill out the [RSVP form](/rsvp/) and we will book your stay for the 26th (check in at 1pm) and 27th (checkout at 11am) at one of the hotels. In case you want to arrive earlier or depart later, please let us know in the RSVP form and we will work with the hotels to accomodate your request.  
 
 ### What is the check-in/check-out time?
 
@@ -29,7 +29,7 @@ Amita Rasa is mostly an outdoor venue. We will have covered pavilions for most o
 
 ### Will there be transportation provided?
 
-Shuttle services will be available from the hotels to the venue for the convenience of guests staying at the hotels. Please indicate your transportation needs when you [RSVP](/rsvp/).
+For those flying to Bangalore, Uber or other tax ride services will be the quickest way to reach the venue. Shuttle services will be available from the hotels to the venue for the convenience of guests staying at the hotels. 
 
 ### What time should I arrive?
 
@@ -77,9 +77,9 @@ Please see the [Itinerary page](/itinerary/) for dress code details.
 
 ### How long will each ceremony last?
 
-- Mehendi: Approximately 2 hours
+- Mehendi: ~2 hours
 - Sangeet: ~3 hours
-- Haldi: Approximately 2 hours
+- Haldi: ~2 hours
 - Wedding Ceremony: ~4 hours
 
 ### What should I expect at each ceremony?
