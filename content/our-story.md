@@ -7,21 +7,20 @@ description = 'Read the beautiful story of how Smrithi and Nixon met, fell in lo
 
 ## How We Met
 
-They met in Grad school at the University of Chicago in the winter of 2019 where despite their mutual indifference to each other's presence, Smrithi was quick to realize she needed Nixon as a study partner. They stayed friends through school and parted ways with Nixon moving to Seattle and Smrithi to New York City. 
+We met in Grad school at the University of Chicago in the winter of 2019 where despite our mutual indifference to each other's presence, Smrithi was quick to realize she needed me as a study partner. We stayed friends through school and parted ways when I moved to Seattle and Smrithi to New York City. 
 
 ## The First Date
 
-There was no first date. No one really knows how they started dating. All we know is that their friendship started to grow into something more meaningful sometime in the fall of 2022. 
+There was no first date. Neither of us know when we started dating. So we have retroactively declared Setptember 2022 to be the dawn of our relationship.
 
 
 ## Growing Together
 
-Over the years, they grew together first in NYC and later continents apart after Smrithi returned to India in 2023. The distance was no hindrance to their love and aspiration to stay together. 
-
+We grew together first in New York, and then continents apart as Smrithi returned to India in 2023. Despite the uncertainties with immigration and the physical distance between us, our love only grew stronger. The distance taught us that what matters most is being together, no matter where we are in the world.
 
 ## Our Future
 
-We're excited to start this new chapter of our lives together, surrounded by our family and friends. Our wedding is not just a celebration of our steadfast love, our perseverance and our growth together every single day.
+We're excited to start this new chapter of our lives together, surrounded by our family and friends. Our wedding is not just a celebration of our steadfast love, but also of our perseverance and growth together every single day.
 
 ## Memories
 
