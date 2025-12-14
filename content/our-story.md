@@ -7,7 +7,8 @@ description = 'Read the beautiful story of how Smrithi and Nixon met, fell in lo
 
 ## How We Met
 
-We met in Grad school at the University of Chicago in the winter of 2019 where despite our mutual indifference to each other's presence, Smrithi was quick to realize she needed me as a study partner. We stayed friends through school and parted ways when I moved to Seattle and Smrithi to New York City. 
+We met in graduate school at the University of Chicago in the winter of 2019. Although we were mutually indifferent to each other at first, Smrithi quickly realized that she needed a study partner. We stayed friends throughout school and eventually went our separate ways when Nixon moved to Seattle and Smrithi to New York City.
+
 
 ## The First Date
 
@@ -16,7 +17,8 @@ There was no first date. Neither of us know when we started dating. So we have r
 
 ## Growing Together
 
-We grew together first in New York, and then continents apart as Smrithi returned to India in 2023. Despite the uncertainties with immigration and the physical distance between us, our love only grew stronger. The distance taught us that what matters most is being together, no matter where we are in the world.
+We grew together first in New York, and later continents apart when Smrithi returned to India in 2023. Despite the uncertainties of immigration and the long distance, our love only grew stronger. The distance taught us that what matters most is being together—no matter where in the world we are.
+
 
 ## Our Future
 

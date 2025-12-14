@@ -9,7 +9,7 @@ description = 'Frequently asked questions about the wedding, including accommoda
 
 ### Where is the venue?
 
-[Amita Rasa](https://amitarasa.com) is a dedicated wedding venue spread over 28 acres. The venue is 1.5 hours away from Bangalore in the getaway spot of Nandi Hills.
+[Amita Rasa](https://maps.app.goo.gl/BRwB7Z2CE7jXxwpE8) is a dedicated wedding venue spread over 28 acres. The venue is 1.5 hours away from Bangalore in the getaway spot of Nandi Hills.
 
 ### Where can I stay?
 
