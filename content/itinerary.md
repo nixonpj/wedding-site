@@ -36,7 +36,7 @@ description = 'View the complete wedding itinerary including Mehendi, Sangeet, H
 ## Haldi
 
 {{< section-with-image image="images/marigold.svg" width="250px" >}}
-**Time:** 11:00 AM
+**Time:** 11:00 AM onwards
 
 **Date:** February 27, 2026
 
@@ -50,7 +50,7 @@ description = 'View the complete wedding itinerary including Mehendi, Sangeet, H
 ## Wedding
 
 {{< section-with-image image="images/hawan.svg" width="250px" >}}
-**Time:** 7:00 PM
+**Time:** 7:00 PM onwards
 
 **Date:** February 27, 2026
 
