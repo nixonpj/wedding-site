@@ -12,7 +12,7 @@ We met in graduate school at the University of Chicago in the winter of 2019. Al
 
 ## The First Date
 
-There was no first date. Neither of us know when we started dating. So we have retroactively declared Setptember 2022 to be the dawn of our relationship.
+There was no first date. Neither of us know when we started dating. So we have retroactively declared September 2022 to be the dawn of our relationship.
 
 
 ## Growing Together

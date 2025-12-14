@@ -13,7 +13,7 @@ description = 'Frequently asked questions about the wedding, including accommoda
 
 ### Where can I stay?
 
-We've arranged for a block of rooms at three hotels near the venue. Please fill out the [RSVP form](/rsvp/) and we will book your stay for the 26th (check in at 1pm) and 27th (checkout at 11am) at one of the hotels. In case you want to arrive earlier or depart later, please let us know in the RSVP form and we will work with the hotels to accomodate your request.  
+We've arranged for a block of rooms at three hotels near the venue. Please fill out the [RSVP form](/rsvp/) and we will book your stay for the 26th (check in at 1pm) and 27th (checkout at 11am) at one of the hotels. In case you want to arrive earlier or depart later, please let us know in the RSVP form and we will work with the hotels to accommodate your request.  
 
 ### What is the check-in/check-out time?
 

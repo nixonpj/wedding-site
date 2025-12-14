@@ -16,6 +16,9 @@
     <meta property="og:title" content="{{ if and .Title (ne .Title .Site.Title) }}{{ .Title }} - {{ end }}{{ .Site.Title }}">
     <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}Join {{ .Site.Params.brideName | default "Smrithi" }} and {{ .Site.Params.groomName | default "Nixon" }} as they celebrate their wedding on {{ .Site.Params.weddingDateDisplay | default "February 26 & 27, 2026" }} in {{ .Site.Params.weddingLocation | default "Nandi Hills, Bangalore, India" }}.{{ end }}">
     <meta property="og:image" content="{{ if .Params.image }}{{ .Params.image | absURL }}{{ else }}{{ "images/temple-wedding.png" | absURL }}{{ end }}">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="892">
+    <meta property="og:image:height" content="824">
     <meta property="og:site_name" content="{{ .Site.Title }}">
     
     <!-- Twitter -->

@@ -44,5 +44,5 @@ description = 'View the complete wedding itinerary including Mehendi, Sangeet, H
 **Time:** 7:00 PM  
 **Date:** February 27, 2026  
 **Dress Code:** Traditional Indian outfits. Lehengas for women and traditional formal wear for men (kurta pajama, sherwani, or traditional dhoti).  
-**Description:** The finaland main wedding ceremony under the beautifully decorated mandap. This elaborate ritual can last late into the night.
+**Description:** The final and main wedding ceremony under the beautifully decorated mandap. This elaborate ritual can last late into the night.
 {{< /section-with-image >}}
